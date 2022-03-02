@@ -63,5 +63,5 @@ scatterplotMatrix(us[-c(11,18,29,35),2:6])
 # debatable whether these cities should be removed from future analysis of this data. It
 # depends strongly on the research question
 
-######## New data file ######
+
 

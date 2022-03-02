@@ -29,3 +29,5 @@ ggplot(demeans_melt[12:66,], aes(variable, value, colour=as.factor(decade))) +  
 
 # Very little variation in 'pan' over the decades.
 # No consistent decade for high and low across the variables
+
+# type some words here to test github
